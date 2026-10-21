@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OfflinePay</string>
+    <string name="a11y_description">Sirf *99# USSD dialog padhta hai aur menu/amount/UPI ID bhar deta hai. UPI PIN kabhi nahi padhta. Sirf payment ke dauran active rehta hai.</string>
+</resources>
